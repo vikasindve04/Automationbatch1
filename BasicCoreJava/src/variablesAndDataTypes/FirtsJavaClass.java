@@ -5,5 +5,4 @@ public class FirtsJavaClass {
 		 System.out.println("First Java Class");
 		 
 	 }
-
 }
